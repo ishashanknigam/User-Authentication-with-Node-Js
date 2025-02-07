@@ -12,11 +12,11 @@ This is a simple User Authentication API built using Node.js, Express, MongoDB, 
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/user-auth-api.git](https://github.com/ishashanknigam/User-Authentication-with-Node-Js
+   git clone https://github.com/ishashanknigam/User-Authentication-with-Node-Js.git
    ```
 2. Navigate to the project directory:
    ```sh
-   cd user-auth-api
+   cd User-Authentication-with-Node-Js
    ```
 3. Install dependencies:
    ```sh
